@@ -8,6 +8,7 @@ CREATE TABLE employee
     );
 
 SELECT * FROM employee;
+
 INSERT INTO employee (first_name, last_name, gender, age)
 VALUES ('Bob', 'Green', 'male', 25);
 VALUES ('John', 'Brown', 'male', 30);
